@@ -1,0 +1,21 @@
+<svg width="512" height="512" viewBox="0 0 512 512" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="56" y1="40" x2="456" y2="472" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#0F172A" />
+      <stop offset="1" stop-color="#1E293B" />
+    </linearGradient>
+    <linearGradient id="accent" x1="120" y1="120" x2="392" y2="392" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#EF4444" />
+      <stop offset="1" stop-color="#DC2626" />
+    </linearGradient>
+  </defs>
+
+  <rect x="24" y="24" width="464" height="464" rx="108" fill="url(#bg)" />
+  <rect x="86" y="98" width="340" height="316" rx="30" fill="#F8FAFC" />
+  <rect x="108" y="124" width="296" height="56" rx="16" fill="url(#accent)" />
+  <rect x="108" y="204" width="186" height="14" rx="7" fill="#334155" />
+  <rect x="108" y="232" width="186" height="14" rx="7" fill="#334155" />
+  <rect x="108" y="260" width="146" height="14" rx="7" fill="#334155" />
+  <rect x="312" y="204" width="92" height="92" rx="14" fill="#E2E8F0" />
+  <path d="M128 372V286H170L216 344V286H242V372H200L154 314V372H128Z" fill="#0F172A" />
+</svg>
